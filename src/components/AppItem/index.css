@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 50px;
+  width: 70px;
+}
+.app-name {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  font-weight: 500;
+}
